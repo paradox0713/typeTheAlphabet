@@ -1,0 +1,127 @@
+.timerDisplay {
+  text-align: center;
+  font-size: 3rem;
+  font-family: Chakra Petch, sans-serif;
+  color: white;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 4rem;
+  text-align: center;
+  font-family: Space Grotesk, sans-serif;
+  color: #2D9596;
+  margin-bottom: 15px;
+}
+
+h4 {
+  color: #F2F7A1;
+  font-family: Titillium Web, sans-serif;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.detailed {
+  display : none;
+  text-align: center;
+}
+
+.feedback {
+  text-align: center;
+  font-size: 3rem;
+  color: #AF2655;
+  font-family: Nunito Sans, sans-serif;
+  /* //display: table-cell; */
+  /* vertical-align: middle; */
+  position: absolute;
+  top: 27px;
+  bottom: 27px;;
+  left: 165px;
+  right: 165px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.nextAlphabet {
+  text-align: center;
+  font-size: 3rem;
+  font-family: Chakra Petch, sans-serif;
+  color: #39A7FF;
+}
+
+.sequence {
+  font-size: 2rem;
+  font-family: Arial;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+
+.initial {
+  font-size: 2rem;
+  font-family: Arial;
+  color: #9EB8D9;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+
+img {
+  width: 48px;
+  height: 48px;
+  text-align: center;
+}
+
+body {
+  background-color: #072541;
+}
+
+.sequenceDiv {
+  background-color: white;
+  border-style: solid solid;
+  border-width: 5px;
+  border-color: #2D9596;
+  border-radius: 10px;
+  height: 60px;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-top: 50px;
+}
+
+.detailed {
+  background-color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-style: solid solid;
+  border-radius: 10px;
+  border-width: 5px;
+  border-color: #2D9596;
+  font-family: PT Sans, sans-serif;
+}
+
+.feedbackDiv {
+  position: relative;
+  text-align: center;
+  background-color: white;
+  margin-left: 70px;
+  margin-right: 70px;
+  border-style: solid solid;
+  border-width: 5px;
+  border-color: #2D9596;
+  border-radius: 10px;
+  height: 120px;
+
+  /* width: 1368px;
+  display: table; */
+}
+
+.image {
+  display: inline;
+  margin-top: 15px;
+}
+
+.bestTime {
+  text-align: center;
+  font-size: 1rem;
+  color: white;
+}
